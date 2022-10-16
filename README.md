@@ -36,6 +36,9 @@ Software Developer
 
 ### Badges
 
+### Leetcode
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Ansh_00?hide=ranking)](https://leetcode.com/Ansh_00)
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/00anshjain"><img src="https://github-readme-stats.vercel.app/api?username=00anshjain&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="00anshjain's GitHub stats" /></a>
