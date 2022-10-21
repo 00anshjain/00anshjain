@@ -6,9 +6,9 @@ Software Developer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [anshjain2000@gmail.com](mailto:anshjain2000@gmail.com)
-* 🧠  I'm learning Springboot
+* 🧠  I'm learning Django
 * 🤝  I'm open to collaborating on Django
-* ⚡  Interested in Phineas and Ferb
+* ⚡  Interested in Cricket
 
 ### Skills
 
