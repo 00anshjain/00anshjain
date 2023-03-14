@@ -7,7 +7,7 @@ Software Developer
 * 🌍  I'm based in India
 * ✉️  You can contact me at [anshjain2000@gmail.com](mailto:anshjain2000@gmail.com)
 * 🧠  I'm learning Apache Spark and Apache Kafka
-* 🤝  I'm open to collaborating on Data Engineering roles
+* 🤝  I'm open to collaborating on Django, Spark and Kafka
 * ⚡  Interested in Cricket
 
 ### Skills
