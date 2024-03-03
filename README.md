@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-* 🌍  I'm based in India
+* 🌍  I'm working as a Backend Developer at Tekion Corp in Bengaluru, India.
 * ✉️  You can contact me at [anshjain2000@gmail.com](mailto:anshjain2000@gmail.com)
-* 🧠  I'm learning Apache Spark and Apache Kafka
-* 🤝  I'm open to collaborating on Django, Spark and Kafka
+* 🧠  I work on Java, Spring Boot, Elastic Seach, SQL, MongoDb, Django, Python, Spark etc. 
+* 🤝  I'm open to collaborations for developement and creative ideas.
 * ⚡  Interested in Cricket
 
 ### Skills
